@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The contents of His maiesties letters patents, granted unto Doctor Chambers, for the discouery, and recouerie of such debts, as haue beene heretofore fraudulently or wrongfully deteined from His Maiestie vpon sheriffes accompts in the Exchequer, dated Quinto Februarii Anno xxi. R. Iacobi.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13200</idno><idno type="EEBO-CITATION">99892830</idno>
+  <idno type="VID">189016</idno>
+  <idno type="EEBO-PROQUEST">2248561485</idno>
+  
+            <idno type="STC">STC 9243.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.MS.7609[138]</idno>
+            <idno type="STC">ESTC S124066</idno>
+            <idno type="PROQUEST">ocm99892830</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892830e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189016)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:2[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The contents of His maiesties letters patents, granted unto Doctor Chambers, for the discouery, and recouerie of such debts, as haue beene heretofore fraudulently or wrongfully deteined from His Maiestie vpon sheriffes accompts in the Exchequer, dated Quinto Februarii Anno xxi. R. Iacobi.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1623].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop head title.</note>
+                  <note>Disbound, with pp.9-12 filmed twice.</note>
+                  <note>Title page lacking; title information from other copies.</note>
+                  <note>Harleian mss. 7609 leaves 138-145.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chambers, James.</term>
+               <term type="topical_term">Patents --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb n="1" facs="tcp:189016:1"/>
+            <head>The Contents of His Maiesties Letters Patents, granted vnto Doctor <hi>Chambers,</hi> for the discouery, and recoue<g ref="char:EOLhyphen"/>rie of such debts, as haue beene heretofore fraudulently or wrongfully deteined from His Maiestie vpon Sheriffes Accompts in the Exchequer, dated <hi>Quinto Februarij Anno xxi. R. IACOBI.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Maiestie being informed, that FRANCIS BVRTON, a Clerke appertaining to the Office of the Ingrosser of the <hi>Great Roll,</hi> (commonly called, The Office of the <hi>Pipe</hi>) hath discouered and found out, furthered especially by the meanes of <hi>Iames Chambers,</hi> his Maiesties Seruant and Physicion for his Person in Ordinary, diuerse frauds, errours, and abuses committed by Sheriffes, Vndersheriffes, and Bayliffes in the not due executing of their Offices, and in the passing of their Accompts; as also by some Officer or Officers, Clerks, and Ministers in combyning, and conniuing with the said Sheriffes, Vnder<g ref="char:EOLhyphen"/>sheriffes, and Bayliffes in falsifying, corrupting, miscasting, and misacquiting the said Sheriffes Accompts, and the Records of the same in the said Office of the <hi>Pipe,</hi> and elswhere in the said Exchequer: By reason whereof diuers Debts, Arrerages, Rents, Dueties, and Summes of mo<g ref="char:EOLhyphen"/>ney
+<pb n="2" facs="tcp:189016:2"/>due, and payable, aswell in the time of the late Queene ELIZABETH, as in the time of His Maiesties Reigne, haue been detained, and kept backe in the hands of the said Sheriffes, Vn<g ref="char:EOLhyphen"/>dersheriffes, Bayliffes, Farmors, Officers, and Ministers, or other persons their Cōfederates; and are vnduly, and wrongfully withholden from his Maiestie, which vpon the said She<g ref="char:EOLhyphen"/>riffes Accompts should, &amp; ought to haue been answered into the Receipt of the Exchequer. For the leuying and recouery wherof, seuerall warrants, and directions haue been giuen, and processe awarded, and diuerse lands seised into his Maiesties hands. <hi>And forasmuch as</hi> (by all likelihood) there be yet more monies in the like nature due, and payable to his Maiesty, which haue been likewise fraudulently deteined, and are not as yet discouered: His Maiesty for the more speedy recouering of His due debt, and the better preuenting of such abuses, and cor<g ref="char:EOLhyphen"/>ruptions in time to come, at the humble suit of his foresaid seruant <hi>Iames Chambers,</hi> is graci<g ref="char:EOLhyphen"/>ously pleased to grant him, and his deputies, not onely power and authority to sue for, pro<g ref="char:EOLhyphen"/>secute, and recouer in his Maiesties name, and to his Maiesties vse, all the Debts and Monies of the nature aforesaid, so wrongfully deteined from his Maiestie, and which grew originally due from, and betweene the <hi>Thirtieth</hi> yeere of Queene <hi>Eliz.</hi> and the <hi>Fourteenth</hi> yeere of his Maiesties Reigne, (the said xiiij. yeere being in<g ref="char:EOLhyphen"/>cluded, &amp; comprehended.) But also (in cōside<g ref="char:EOLhyphen"/>ration
+<pb n="3" facs="tcp:189016:2"/>of the good and faithfull seruice hereto<g ref="char:EOLhyphen"/>fore done by the said Doctor <hi>Chambers,</hi> and in consideration of his trauaile, paines, and char<g ref="char:EOLhyphen"/>ges heretofore sustained, and hereafter to bee sustained and expended in and about the disco<g ref="char:EOLhyphen"/>uery, prouing, prosecuting, and bringing in of the said debts) The one moity or halfe part of all such debts, dueties, and summes of money to his and their vse, as shal be so discouered and recouered by him or them, He first bringing in the other moity, and that free of all charges, and deductions into the Receipt of the Exche<g ref="char:EOLhyphen"/>quer. In which Grant there is libertie and licence giuen vnto the said Doctor <hi>Cham<g ref="char:EOLhyphen"/>bers,</hi> and his deputies (in the presence of the Officers) to search the Records in all Offices in the Exchequer, To be present at the Appo<g ref="char:EOLhyphen"/>sals of Sheriffes; and to giue Acquitances for the one moity receiued by him (the Kings moitie being first paid into the Receipt of the Exchequer:) With cōmand to the Treasurer, Barons, and Officers of the Exchequer, and to all others whom it shall or may concerne, to be aiding and assisting vnto him in the due exe<g ref="char:EOLhyphen"/>cution of the Premisses. And by the said Grant it is prouided, that all power of mitiga<g ref="char:EOLhyphen"/>tion, and Composition shall be wholly left vnto the order of the Court of Exchequer, and that the said Doctor <hi>Chambers,</hi> his De<g ref="char:EOLhyphen"/>puties, and Assignes, shall submit themselues thereunto: As also that the said Grant shall not derogate or be preiudiciall to a former
+<pb n="4" facs="tcp:189016:3"/>Grant made to <hi>William Carr</hi> Esquire, one of the Groomes of His Maiesties Bed-chamber.</p>
+            <div type="part">
+               <head>It is conceiued vpon the Reasons follow<g ref="char:EOLhyphen"/>ing, that this Grant can be no <hi>Mono<g ref="char:EOLhyphen"/>polie,</hi> or Grieuance to the Subiect.</head>
+               <p>FIrst, That cannot be termed a Grieuance in any Kingdome, which hath no other end, or whose chiefe and principall end and obiect is to discouer frauds, errors, and corruptions, and to giue euery one that which is his due: but this is that, and all, and onely that, which by the said Patent is granted, and authorized to be done: Therefore it is conceiued, that this grant can be no Grieuance.</p>
+               <p>Secondly, This Graunt can be no Mono<g ref="char:EOLhyphen"/>poly, in regard the Patentee doth not incroach vpon other mens Liberties, or Priuiledges, ei<g ref="char:EOLhyphen"/>ther in barring any from the like discouerie, or hindering of their benefite, if his Maiestie shalbe so pleased as to bestow any vpon them for the like Discouerie. Wherefore, &amp;c.</p>
+               <p>And to conclude, seeing this Grant contei<g ref="char:EOLhyphen"/>neth nothing in it but a power to detect fraud, and abuse in Sheriffes Accompts, and to pro<g ref="char:EOLhyphen"/>secute in His Maiesties Name, and bring into His Maiesties coffers the money thereupon due to His Maiestie, which hath these many yeeres by past beene wrongfully kept backe: And that all Lawes, Statutes, and generall
+<pb n="5" facs="tcp:189016:3"/>Pardons leaue such like frauds, deceits, and a<g ref="char:EOLhyphen"/>buses to be inquired of, and the crime puni<g ref="char:EOLhyphen"/>shed by Fine, or otherwayes, rather then to be pardoned, or any part of the due debt remit<g ref="char:EOLhyphen"/>ted: It is conceiued that this Grant, so warran<g ref="char:EOLhyphen"/>ted by the Lawes and Statutes of this King<g ref="char:EOLhyphen"/>dome, agreeable with equitie and Iustice, and conformable to the daily practise and cōmon experience of all Nations and people amongst themselues mutually, in matters of Com<g ref="char:EOLhyphen"/>merce and Accompts (from whence it is prouerbially spoken, that <hi>false reckoning is no payment</hi>) cannot bee called a Monopolie or Grieuance.</p>
+            </div>
+            <div type="part">
+               <head>That a Sheriffe may lawfully in some Cases be brought in <hi>Debet de Remanente compoti sui,</hi> and called to render an Accompt for moneys due to the Crowne after the suing foorth his <hi>Quietus est,</hi> and that such their case hath beene that are now questioned vpon the discouerie made in the <hi>Pipe,</hi> it is manifest by the reasons following.</head>
+               <p>
+                  <hi>A Quietus est,</hi> as it is taken in the Accompt of Sheriffes, (for in other cases it is other wayes vnderstood, and in other wordes ex<g ref="char:EOLhyphen"/>pressed) being nothing else but the duplicate, or transcript of the Record of the Sheriffes
+<pb n="6" facs="tcp:189016:4"/>Accompt, (warranted onely by the subscrip<g ref="char:EOLhyphen"/>tion of the Clerke of the <hi>Pipe,</hi> or some infe<g ref="char:EOLhyphen"/>riour Clerke or Attourney there in their seue<g ref="char:EOLhyphen"/>rall Diuisions) cannot rightly be said to be a generall Pardon, Discharge, or Release of all matters, and Demands concerning the same Accompt, <hi>(accompted for, misaccompted for, or not accompted for:)</hi> for that it conteineth in it selfe no one word of Generall, or Finall discharge, but onely for so much, and so farre foorth, as thereby appeareth to haue beene therein duely charged, and accompted for, and either payd by the Sheriffe, or set off from him by good Warrant, and vpon true Infor<g ref="char:EOLhyphen"/>mation, as illeuiable or dischargeable: So that if it shall afterwards appeare, that the said Sheriffe hath made a false, or corrupt Ac<g ref="char:EOLhyphen"/>compt, either by <hi>Nichelling</hi> what hee, or his Deputie hath receiued, (which is too too fre<g ref="char:EOLhyphen"/>quent amongst them:) or not duely answering that which vpon his owne confession and ac<g ref="char:EOLhyphen"/>compt hee standeth charged withall, and ac<g ref="char:EOLhyphen"/>knowledged to haue receiued; or by combi<g ref="char:EOLhyphen"/>ning with the Clerke, or Officer who maketh his accompt: or taking aduantage of Errours committed through the Clerkes default, in not fully charging, or vndue discharging the said Sheriffe: or by some other such like collu<g ref="char:EOLhyphen"/>sion, practise, or sinister meanes betwixt the Clerke, or other Officer, and the Sheriffe, in falsifying, corrupting, miscasting, and misac<g ref="char:EOLhyphen"/>quiting the said Sheriffes Accompts, and the
+<pb n="7" facs="tcp:189016:4"/>Records of the same. It is conceiued, That this sinistrous forme of dealing can be no barre or hinderance to his Maiestie, but that he may lawfully (notwithstanding any such false, or corrupt Accompt, and the <hi>Quietus est</hi> there<g ref="char:EOLhyphen"/>upon obtained,) giue authoritie either by Pa<g ref="char:EOLhyphen"/>tent, or otherwise to any his Officers, Ser<g ref="char:EOLhyphen"/>uants, or Subiects, yea without any Patent, or new Authoritie, by his ordinarie Officers, to sue and call for his due debt, and a better ac<g ref="char:EOLhyphen"/>compt also, if it shall be requisite.</p>
+               <p>If a Sheriffe bee ouercharged by the Totall of his <hi>Totts of the Pipe, Greene waxe,</hi> or any other part of his Accompt, and that the error be discouered before he haue finished his Ac<g ref="char:EOLhyphen"/>compt, and bee dismist out of Court: the Clerke of the <hi>Pipe,</hi> vpon examination, or cer<g ref="char:EOLhyphen"/>tificate thereof, doth <hi>Ex officio</hi> discharge so much against the King, and rectifie the Ac<g ref="char:EOLhyphen"/>compt. Likewise after the Sheriffe is dismist, if he shall make it to appeare that by errour he hath been ouercharged, or payd more to the Crowne then his due debt, the Clerke of the <hi>Pipe</hi> doth by the ordinary course of the Ex<g ref="char:EOLhyphen"/>chequer cast vp, record, and enter in the foote of such Accompt, that such Sheriffe <hi>Habet in superplus:</hi> such a summe, and the law and course of the said Court, prouide, that vpon a Re<g ref="char:EOLhyphen"/>cord of Remembrance made, testifying the same, and that the Accomptant challengeth repayment thereof, hee shall haue the same <hi>superpluss.</hi> repaid him, vpon such other Ac<g ref="char:EOLhyphen"/>compt
+<pb n="8" facs="tcp:189016:5"/>as hee shall desire. By the like reason it is conceiued to be lawfull for the Clerke of the <hi>Pipe,</hi> though a Sheriffe be cast out of Court (if it shall appeare afterward, that through fraud or errour hee was not fully charged, or hath byn vnduely discharged) to cast vp, &amp; en<g ref="char:EOLhyphen"/>ter the said debt to bee put in processe for the King against the said Sheriffe, and rectifie the said Accompt. Thus was (amongst others) Sir <hi>Philip Constable,</hi> Sheriffe of the Countie of <hi>Yorke,</hi> in the xxxiij. yeere of the late Queene ELIZABETH, after he had been acquited in the Great Roll of the fortieth yeere of the said late Queene, and had his <hi>Quietus est,</hi> vpon reuiew, and better examination, brought in <hi>Debet</hi> fourescore and thirteene pounds, and thereof threescore pounds was paid in the ninth yeere of his Maiesties Reigne. And that there may be iust cause so to doe, is sufficiently approued by that, that vnder-Sheriffes, and other the parties themselues, sithence the said Discoue<g ref="char:EOLhyphen"/>rie, and vpon this course of proceeding, haue already payd one thousand Markes into the Receipt, acknowledged to haue beene wrong<g ref="char:EOLhyphen"/>fully kept backe from his Maiestie by errour vpon Accompt. And securitie is giuen, and promised for paiment of one thousand, and three hundred pounds more, that in like man<g ref="char:EOLhyphen"/>ner hath been fraudulently discharged against the Crowne, and is confessed by the Delin<g ref="char:EOLhyphen"/>quent. And as cōcerning the other Sheriffs and Accomptants, to whom Letters and Pro<g ref="char:EOLhyphen"/>cesse
+<pb n="9" facs="tcp:189016:5"/>haue beene directed almost two yeeres since vpon this Discouerie, for the like debts, there hath not as yet beene sufficient matter shewed by any of them to discharge any part thereof against the Crowne.</p>
+               <p>
+                  <hi>Moreouer,</hi> it seemeth most warrantable, iust, and equall, that Processe hath beene awarded against these Sheriffes for certaine summes <hi>de Remanente compoti sui;</hi> because by the same Accompts, as they are entred vpon the Re<g ref="char:EOLhyphen"/>cord, and haue beene compared with the ori<g ref="char:EOLhyphen"/>ginall Records of the Charge, and Discharge of the said Accompts, there yet euidently re<g ref="char:EOLhyphen"/>steth a Debt due by them of the Remainder of their said Accompts, notwithstanding they are said to be in <hi>Habet,</hi> or <hi>Quietus est,</hi> in the Foot of their Accompts in the great Roll. So that they are not called to a new Accompt for mo<g ref="char:EOLhyphen"/>neys they haue <hi>Nichelled,</hi> or vnduely set from them, (for which neuerthelesse vpon proofe made of the Receipt thereof, no man doub<g ref="char:EOLhyphen"/>teth but the Sheriffe is alwayes liable to make satisfaction, and subiect to censure,) But are required to make a iust Accompt, and pay<g ref="char:EOLhyphen"/>ment of so much of the Debts taken in charge by them, as by their owne accompt appeareth they haue receiued, &amp; are not set from them: Notwithstanding the same by fraud, or error hath euer since beene kept backe from His Maiestie; against which they can plead no former satisfaction, because it was neuer made a debt, or required of them before. Where<g ref="char:EOLhyphen"/>upon
+<pb n="10" facs="tcp:189016:6"/>it followes, that this hath beene a disco<g ref="char:EOLhyphen"/>uerie of lawfull, and good consequence, ra<g ref="char:EOLhyphen"/>ther to be aduanced and furthered, then sup<g ref="char:EOLhyphen"/>prest, to the end (as in all other cases of fraud, abuse, and error) the King may haue an ho<g ref="char:EOLhyphen"/>nest Accompt of His iust debt, and the Re<g ref="char:EOLhyphen"/>cords be purged of those falsities and forge<g ref="char:EOLhyphen"/>ries, the like whereof, the care and conscience of former ages neuer left them stained, or de<g ref="char:EOLhyphen"/>faced with.</p>
+               <p>The trueth of all which allegations, vpon further examination of the particular Ac<g ref="char:EOLhyphen"/>compts in question, the Patentee by himselfe, his counsell, or deputies (if it shall be required) shall make more clearely appeare by the Re<g ref="char:EOLhyphen"/>cords themselues.</p>
+               <p>And where it hath been desired by some of the high Sheriffes, (by whose Accompts it appeareth the King hath been defrauded by vndue allowances taken, and made by the Vn<g ref="char:EOLhyphen"/>dersheriffes, &amp; Officers;) That the said Vnder<g ref="char:EOLhyphen"/>sheriffes and officers should onely be charged, and answere therefore to the Crowne, in re<g ref="char:EOLhyphen"/>spect the high Sheriffe knoweth nothing thereof, nor is any wayes accessary to any such fraud, or confederacie: It is conceiued that so to transferre His Maiesties debt, were nothing safe for the Crowne, neither agree<g ref="char:EOLhyphen"/>able to law, and equitie, forasmuch as the high Sheriffe onely is the Kings immediate Officer, and consequently liable to giue an acompt of the Reuenue incident to his charge,
+<pb n="9" facs="tcp:189016:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:189016:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:189016:7"/>and in all equity to answere the Kings Maie<g ref="char:EOLhyphen"/>stie such summes of money as his Vndershe<g ref="char:EOLhyphen"/>riffes, Bayliffes, and others substituted, and authorised by him, haue receiued and misac<g ref="char:EOLhyphen"/>compted for; which the high Sheriffes well vnderstanding, vse to take good bonds, and securitie from their Vndersheriffes to saue them harmelesse, and for the most part keepe the said bonds alwayes by them, after they haue receiued their <hi>Quietus est,</hi> for that in com<g ref="char:EOLhyphen"/>mon experience they see they are subiect to such after reckonings. And vpon suits com<g ref="char:EOLhyphen"/>menced vpon such occasions diuerse great summes of money haue beene recouered by the high Sheriffes, from their Vndersheriffes and their Sureties, by the awards of the Courts of Iustice; As was by Sir <hi>Christopher Hilliard,</hi> Knight, about the second yeere of his Maiesties Reigne, from the sureties of <hi>Stephen Hill,</hi> late Vndersheriffe to Sir <hi>Christopher Hilli<g ref="char:EOLhyphen"/>ard,</hi> Knight, deceased, Sheriffe of the County of <hi>Yorke,</hi> in the xxxviij. yeere of the late Queen, of some one hundreth, of some two, of some sixe hundreth pounds. And as concerning the Officers or Clerkes (whose doings in some cases cannot bee excused) though the Sheriffe be not bound to answere for their faults, yet hee is to answere the King such of his Maiesties monies as he hath paid, or deli<g ref="char:EOLhyphen"/>uered vnto them, or others, (being not appoin<g ref="char:EOLhyphen"/>ted Receiuers thereof) vpon their meere mo<g ref="char:EOLhyphen"/>tion, suggestion, or perswasion, without any
+<pb n="12" facs="tcp:189016:8"/>lawfull warrant from His Maiestie, or such as he hath authorised to giue warrant: and that the rather because it is not probable, especially where the summes are great (as in the Case of Sir <hi>Christopher Hilliard</hi>) that the Vndersheriffe, or other Accomptant, could bee meerely chea<g ref="char:EOLhyphen"/>ted, but rather had the greatest share of the monies so fraudulently kept backe from the Crowne.</p>
+               <p>And finally, it seemeth, the Sheriffes, if they haue been wrongfully distreined, or troubled by processe through any Officers default (without which it cannot bee) neede not mo<g ref="char:EOLhyphen"/>lest the high Court of Parliament with their Complaints, for that in such case the ancient lawes of this Kingdome allow them treble Dammages, &amp;c.</p>
+               <pb n="11" facs="tcp:189016:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:189016:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:189016:9"/>
+               <pb facs="tcp:189016:10"/>
+               <pb facs="tcp:189016:10"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
